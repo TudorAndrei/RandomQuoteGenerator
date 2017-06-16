@@ -1,0 +1,11 @@
+body{
+background-size: 1920px 1080px;
+    background-repeat: no-repeat;
+    background-image: url("background.jpg");
+    padding-top: 100 px;
+    text-align: center;
+
+}
+#text{
+    padding: 100px;
+}
